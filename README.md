@@ -1,2 +1,2 @@
-# peggle
-Peggle clone using Godot
+# Konkey Wong
+Donkey kong clone using Godot
